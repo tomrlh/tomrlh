@@ -1,6 +1,6 @@
 [![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomrlh&theme=dark&show_icons=true)](https://github.com/tomrlh/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomrlh&theme=dark&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tomrlh&theme=dark&show_icons=true" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomrlh&layout=compact&theme=dark&show_icons=true)](https://github.com/tomrlh/github-readme-stats)

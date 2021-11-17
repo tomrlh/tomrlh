@@ -1,9 +1,13 @@
-<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=tomrlh&hide=stars,issues,contribs&count_private=true&theme=aura_dark&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=tomrlh&hide=stars,issues,contribs&count_private=true&theme=aura_dark&show_icons=true" 
+  width="90%"
+/>
 
-<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomrlh&layout=compact&theme=aura_dark&show_icons=true" />
+</br>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomrlh&layout=compact&theme=aura_dark&show_icons=true" width="80%" />
 
 <h3>Backend Technologies</h3>
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="150px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="150px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="150px" />

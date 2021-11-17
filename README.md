@@ -8,7 +8,7 @@
 </div>
 
 <h3>Backend Technologies</h3>
-<div style="display: flex; justify-content: space-between; align-items: center; border: 1px solid white;">
+<div style="display: flex; justify-content: space-between; align-items: center; border: 5px solid white;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="150px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="150px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="150px" />

@@ -2,8 +2,6 @@
   width="90%"
 />
 
-</br>
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomrlh&layout=compact&theme=aura_dark&show_icons=true" width="80%" />
 
 <h3>Backend Technologies</h3>

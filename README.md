@@ -1,7 +1,7 @@
 # Hi, I'm Thiago 👋🏼 🧑🏽‍💻
 
-I'm oriented by:
-<p><cite>Eat, code, play guitar, do exercises, feels good, more coding, travels, have fun, repeat 🔃💻🎸</cite></p>
+A Software Engineer oriented by:
+<p><cite>Eat, code, play guitar, do exercises, feels good, more coding, travels, have fun, repeat 🔃 💻 🎸</cite></p>
 
 </br>
 

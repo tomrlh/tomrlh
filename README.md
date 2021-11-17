@@ -1,10 +1,11 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomrlh&hide=stars,issues,contribs&count_private=true&theme=aura_dark&show_icons=true" 
-  width="90%"
-/>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=tomrlh&hide=stars,issues,contribs&count_private=true&theme=aura_dark&show_icons=true" 
+       width="90%"
+  />
 
-</br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomrlh&layout=compact&theme=aura_dark&show_icons=true" width="80%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomrlh&layout=compact&theme=aura_dark&show_icons=true" width="80%" />
+</div>
 
 <h3>Backend Technologies</h3>
 <div style="display: flex; justify-content: space-between; align-items: center;">

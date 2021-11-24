@@ -5,7 +5,7 @@ A Software Engineer oriented by:
 
 </br>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div align="center">
   <img align="center"
        src="https://github-readme-stats.vercel.app/api?username=tomrlh&hide=stars,issues&count_private=true&theme=aura_dark&show_icons=true" 
        width="50%"

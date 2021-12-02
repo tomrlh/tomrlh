@@ -1,6 +1,6 @@
 # Hi, I'm Thiago 👋🏼 🧑🏽‍💻
 
-A Software Engineer that follows the loop:
+A Software Engineer who follows the loop:
 <p><cite>Eat, code, play guitar, do exercises, feels good, more coding, travels, have fun, repeat 🔃 💻 🎸</cite></p>
 
 </br>

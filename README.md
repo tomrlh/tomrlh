@@ -52,7 +52,7 @@ A Software Engineer who follows the loop:
   <h3>Certifications</h3>
 </div>
 <div align="center">
-  <a href="https://www.credly.com/badges/40e99e0b-6f92-42e7-8366-e2c579ed2ae7/linked_in_profile">
+  <a href="https://www.credly.com/badges/40e99e0b-6f92-42e7-8366-e2c579ed2ae7/linked_in_profile" target="_blank">
     <img src="https://images.credly.com/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png" width="100px" />
   </a>
 </div>

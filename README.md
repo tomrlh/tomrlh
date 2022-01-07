@@ -47,3 +47,11 @@ A Software Engineer who follows the loop:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="100px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="90px" />
 </div>
+
+<div align="center">
+  <h3>Certifications</h3>
+</div>
+<div align="center">
+  <img src="https://images.credly.com/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png" width="100px" />
+</div>
+

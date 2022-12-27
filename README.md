@@ -1,7 +1,7 @@
 # Hi, I'm Thiago 👋🏼 🧑🏽‍💻
 
 A Software Engineer who follows the loop:
-<p><cite>Eat, code, play guitar, do exercises, more code, travels, have fun, repeat 🔃 💻 🎸</cite></p>
+<p><cite>Eat, code, play guitar, gym, more code, travels, have fun, repeat 🔃 💻 🎸</cite></p>
 
 </br>
 

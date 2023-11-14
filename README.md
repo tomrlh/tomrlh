@@ -5,14 +5,14 @@ A Software Engineer who follows the loop:
 
 </br>
 
-<div align="center">
+<!--div align="center">
   <img align="center"
        src="https://github-readme-stats.vercel.app/api?username=tomrlh&hide=stars,issues&count_private=true&theme=aura_dark&show_icons=true" 
        width="50%"
   />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomrlh&layout=compact&theme=aura_dark&show_icons=true" width="35%" />
-</div>
+</div-->
 
 <h3>Tech Stack that I've been using</h3>
 

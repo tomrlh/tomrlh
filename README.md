@@ -33,7 +33,7 @@ A Software Engineer who follows the loop:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original-wordmark.svg" width="60px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="60px" />
+  <img src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" width="60px" />
 </div>
 
 <div align="center">

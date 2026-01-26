@@ -24,7 +24,7 @@ A Software Engineer who follows the loop:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="60px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="60px" />
-  <img src="https://p1.hiclipart.com/preview/263/95/790/ruby-ruby-programming-language-logo-png-clipart.jpg" width="60px" />
+  <img src="https://images.icon-icons.com/2415/PNG/512/ruby_original_wordmark_logo_icon_146364.png" width="60px" />
 </div>
 
 <div align="center">

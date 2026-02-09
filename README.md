@@ -64,7 +64,7 @@ A Software Engineer who follows the loop:
   <a href="https://www.credly.com/badges/40e99e0b-6f92-42e7-8366-e2c579ed2ae7/linked_in_profile" target="_blank">
     <img src="https://images.credly.com/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png" width="100px" />
   </a>
-  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/762b36c7c10341ecb5db1a2bc89a8b4d" target="_blank">
+  <a href="https://www.credly.com/badges/dc7a04b9-fb02-491a-a673-35676053c092/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100px" />
   </a>
   
